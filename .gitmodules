@@ -1,0 +1,4 @@
+[submodule "l10n_ve"]
+	path = l10n_ve
+	url = git@github.com:ingeint/l10n_ve.git
+	branch = 15.0
